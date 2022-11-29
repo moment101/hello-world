@@ -6,3 +6,4 @@ This repository is built step by step in the tutorial.
 Commit directly to the master branch
 
 Use pull to replace fetch and merge.
+Just add a new line.
